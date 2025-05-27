@@ -1,0 +1,2 @@
+# Predicting_Employee_Retention_MANISH_MANOJ_MANTHAN
+IIIT Bangalore Logistic regression assignment 
