@@ -1,4 +1,4 @@
-# Predicting_Employee_Retention_MANISH_MANOJ_MANTHAN
+# Predicting_Employee_Retention
 IIIT Bangalore Logistic regression assignment 
 
 A mid-sized technology company wants to improve its understanding of employee retention to foster a loyal and committed workforce. While the organization has traditionally focused on addressing turnover, it recognizes the value of proactively identifying employees likely to stay and understanding the factors contributing to their loyalty.
